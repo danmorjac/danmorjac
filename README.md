@@ -1,11 +1,11 @@
 <h1 align="center"> Hola! 👋, me llamo Daniel Morales </h1>
 <h2 align="center"> Desarrolador Web </h2>
 
-Soy Daniel , vivo en España, y soy un futuro desarrolador de fronte-end y back-end.
+Soy Daniel , vivo en España, y soy un futuro desarrolador de front-end y back-end.
 
-Actualmente Estoy estudiando el Grado Superior de Desarrollo de Aplicaciones Web
+Actualmente estoy estudiando el Grado Superior de Desarrollo de Aplicaciones Web
 
-Me gusta mucho aprender nuevos lenguajes de programacion como Java, PHP, Javascript  y frameworks como Vue, React o Laravel. Ademas ahora me estoy adentrando en el basto mundo de AWS y Azure
+Me gusta mucho aprender lenguajes de programacion nuevos como Java, PHP, Javascript  y frameworks como Vue, React o Laravel. Ademas ahora me estoy adentrando en el basto mundo de AWS y Azure
 
 
 # Habilidades técnicas
