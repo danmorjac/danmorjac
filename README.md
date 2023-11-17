@@ -14,7 +14,7 @@ Tengo más de un año de experiencia en Java . Además, estoy familiarizado con 
 
 | Habilidades de Programación |
 | -------------------- |
-| Desarrollo de aplicacions con Java | 
+| Desarrollo de aplicaciones con Java | 
 | Desarrollo web con PHP | 
 | Desarrollo web con JavaScript|
 | Control de versiones con Git | 
