@@ -26,9 +26,6 @@ Tengo más de un año de experiencia en Java . Además, estoy familiarizado con 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danmorjac&layout=compact&langs_count=10&hide_title=true)](https://github.com/danmorjac?tab=repositories)
 
-## Estadisticas de mi perfil
-
-![GitHub metrics](https://metrics.lecoq.io/danmorjac)  
 
 ## Quieres contactarme 
 
